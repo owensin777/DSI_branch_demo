@@ -1,2 +1,3 @@
 # Branch demo code
-For the Uoft DSI Foundations Course - Owen
+For the Uoft  Foundations Course - Owen
+
